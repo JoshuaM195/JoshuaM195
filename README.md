@@ -2,7 +2,7 @@
     
 <h1 align="left">Hi 👋🏽, I'm Joshua Mathew</h1>
 
-![Profile views](https://gpvc.arturio.dev/JoshuaM195)
+<img src="https://komarev.com/ghpvc/?username=JoshuaM195&color=blueviolet" align="left">
 
 <h3 align="left">I have a passion for programming and technology! 🚀</h3>
 
