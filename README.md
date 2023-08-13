@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋🏽, I'm Joshua Mathew</h1>
 
 <img src="https://komarev.com/ghpvc/?username=JoshuaM195&color=blueviolet" align="left">
-
+<br></br>
 <h3 align="left">I have a passion for programming and technology! 🚀</h3>
 
 <div align="left">
